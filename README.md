@@ -9,6 +9,7 @@
 7. After completion, push your code to github. Futher instructions will be given later.
 8. The deadline for the tasks is Thursday, 5pm.
 
+##### P.S. You need get acquainted with the use of GitHub now - https://towardsdatascience.com/github-primer-for-dummies-e8d307e52b6d. Check out this on how to get started!
 #### We recommend you try new things and do the tasks on your own. This is a great learning opportunity for each one of you, but do ask in case you feel stuck or encounter any problems. All the best :)
 
 
