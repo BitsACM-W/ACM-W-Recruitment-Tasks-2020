@@ -2,6 +2,7 @@ For this task, you need to do BOTH of the tasks given below:
 1. Read up the topic 'Time Complexity of Algorithms' and find out the Time complexity for the below given codes:
   (i) Binary Search
   (ii) Bubble Sort
+  (iii) Recursive factorial algorithm
   You need to explain the working of the code and how you arrived at the solution.
   
 2. Implement Sudoku Program in any language of your choice. The code should be well indented and commented. 
