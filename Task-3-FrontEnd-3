@@ -1,0 +1,14 @@
+Your task is to implement a 2048 game using JavaScript. Try to keep it as simple as possible while implementing the features.
+•	2048 is a game where you combine numbered tiles in order to gain a higher numbered tile. In this game you start with two tiles, the lowest possible number available is two.
+  combining the tiles with the same number to have a tile with the sum of the number on the two tiles.
+•	After achieving the tile with a 2048 tile, players must be asked if he still wants to continue the game or wants to leave. 
+•	Must not include complicated controls. The controls you will be providing are just upward, downward, and sideways.
+  every time one moves a title, another tile must pops up in a random manner anywhere in the box.
+•	When two tiles with the same number collide with one another, they must merge into one tile with the sum of the numbers written on them initially.
+
+Resources 
+https://www.w3schools.com/js/DEFAULT.asp
+https://www.tutorialspoint.com/javascript/index.html
+https://www.youtube.com/watch?v=aDn2g8XfSMc (You can take help from this tutorial but please make sure you use your own creativity and logic.
+
+If you have not played the game, you can check it out here: https://2048game.com/
