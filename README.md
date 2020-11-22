@@ -6,6 +6,8 @@
 4. If you want to explore App Development and/or are fluent with Java, try Task 4. <br>
 5. If you want to work with a programming language instead of exploring the above, try Task 5. <br>
 6. If you know Python and want to explore Backend Web Development, try Task 6. <br>
+7. After completion, push your code to github. Futher instructions will be given later.
+8. The deadline for the tasks is Thursday, 5pm.
 
 #### We recommend you try new things and do the tasks on your own. This is a great learning opportunity for each one of you, but do ask in case you feel stuck or encounter any problems. All the best :)
 
