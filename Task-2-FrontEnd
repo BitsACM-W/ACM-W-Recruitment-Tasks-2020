@@ -1,14 +1,17 @@
-### Task 2
-You are required to create basic To-Do list app using HTML, CSS and JavaScript. It should implement the followig functions:
+Task 2
+You are required to create basic To-Do list app using HTML, CSS and JavaScript. It should implement the following functions:
 1. Add tasks
 2. Delete tasks
 3. Mark task as done
 For reference:
 You list can look something like this- https://drive.google.com/file/d/1kuaXex1oeRun7CDOV8yuQ9oKPDuIfUNq/view?usp=sharing
 
-Make sure you make it look attractive and neat at the same time, since this is a frontend task.
+Make sure you make it look attractive and neat at the same time, since this is a frontend task. You can use the Bootstrap framework to make your webpage look better.
 Resources for learning:
-1. https://www.w3schools.com/
-2.
-3. https://youtu.be/pN6jk0uUrD8
+1.https://developer.mozilla.org/en-US/docs/Web/HTML
+2.https://developer.mozilla.org/en-US/docs/Web/CSS
+3.https://developer.mozilla.org/en-US/docs/Web/JavaScript
+4.https://www.w3schools.com/
+5.https://getbootstrap.com/docs/4.0/getting-started/introduction/
+6. https://youtu.be/pN6jk0uUrD8
 
